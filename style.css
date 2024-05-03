@@ -13,4 +13,8 @@ header {
 }
 .cabecalho-lista-item{
     display: inline-block;
+    margin: 0 1 16px;
+    padding: 0 24px;
+    justify-content: space-around;
+    font-size: 24px;
 }
